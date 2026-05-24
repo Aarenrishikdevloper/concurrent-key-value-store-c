@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dbclient.dir/dbclient.c.o -o dbclient 

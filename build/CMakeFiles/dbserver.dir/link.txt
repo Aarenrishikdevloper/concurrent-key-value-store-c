@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dbserver.dir/dbserver.c.o CMakeFiles/dbserver.dir/kvstore.c.o CMakeFiles/dbserver.dir/queue.c.o CMakeFiles/dbserver.dir/stats.c.o CMakeFiles/dbserver.dir/worker.c.o -o dbserver  /usr/lib/x86_64-linux-gnu/libz.so 

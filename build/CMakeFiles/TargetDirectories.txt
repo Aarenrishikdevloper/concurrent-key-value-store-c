@@ -1,0 +1,4 @@
+/mnt/d/key-value-store/build/CMakeFiles/dbserver.dir
+/mnt/d/key-value-store/build/CMakeFiles/dbclient.dir
+/mnt/d/key-value-store/build/CMakeFiles/edit_cache.dir
+/mnt/d/key-value-store/build/CMakeFiles/rebuild_cache.dir
