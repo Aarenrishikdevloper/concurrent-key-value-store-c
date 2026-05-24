@@ -86,7 +86,6 @@ Keys and values are arbitrary strings. The store supports three core operations 
 
 **Start the server**
 ```bash
-make
 ./dbserver
 ```
 
@@ -116,7 +115,7 @@ quit     # graceful shutdown
 | Synchronisation | Mutexes & condition variables |
 | Concurrency patterns | Producer–consumer queue, monitor pattern |
 | Statistics | Thread-safe aggregation |
-| Build system | Make, CMake |
+| Build system |  CMake |
 | IDE | CLion |
 
 ---
